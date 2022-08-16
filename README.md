@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Tic-Tac-Tao
+
+## Sample Images:-
+![Screenshot (569)](https://user-images.githubusercontent.com/94789421/184882086-cb1da4ba-ba48-4acf-80f9-c144579955db.png)
+
+![Screenshot (568)](https://user-images.githubusercontent.com/94789421/184882103-5ca21b5f-3376-444f-badf-121092646895.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
